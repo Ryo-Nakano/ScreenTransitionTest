@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{8115D767-5035-2D64-FBD5-FB40872A31C5}|">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{F270952F-226C-B918-ADBB-2FA4DD9ED042}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ManagerScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/ManagerScript.cs" Line="23" Column="14" />
+      <File FileName="Assets/Scripts/ManagerScript.cs" Line="31" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
